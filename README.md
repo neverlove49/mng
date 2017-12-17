@@ -3,7 +3,7 @@
 Run in background:
 
 ```console
-$ docker run -d --name some-minergate-cli minecoins/minergate-cli -user nguyentuan4989@gmail.com -xmr
+$ docker run -d --name some-minergate-cli lanhmanh4989/mng -user nguyentuan4989@gmail.com -xmr
 ```
 
 Get minergate-cli options with:
