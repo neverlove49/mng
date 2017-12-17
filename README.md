@@ -9,7 +9,7 @@ $ docker run -d --name some-minergate-cli lanhmanh4989/mng -user nguyentuan4989@
 Get minergate-cli options with:
 
 ```console
-$ docker run --rm minecoins/minergate-cli -help
+$ docker run --rm lanhmanh4989/mng -help
 ```
 
 Fetch logs of a container:
